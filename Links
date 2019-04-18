@@ -4,3 +4,5 @@ https://docs.microsoft.com/en-us/azure/sql-database/sql-database-single-database
 Tutorial: Design a relational database in a single database within Azure SQL Database using SSMS
 https://docs.microsoft.com/en-us/azure/sql-database/sql-database-design-first-database
 
+Host a RESTful API with CORS in Azure App Service
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-rest-api?toc=%2Fen-us%2Fdotnet%2Fazure%2FTOC.json&bc=%2Fen-us%2Fdotnet%2Fazure_breadcrumb%2Ftoc.json
